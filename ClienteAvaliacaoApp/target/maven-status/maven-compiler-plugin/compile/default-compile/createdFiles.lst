@@ -1,0 +1,9 @@
+br\com\meuapp\clienteavaliacao\DatabaseConnection.class
+br\com\meuapp\clienteavaliacao\ClienteAvaliacaoApp.class
+br\com\meuapp\clienteavaliacao\StarImages.class
+br\com\meuapp\clienteavaliacao\ClienteAvaliacaoGUI$1.class
+br\com\meuapp\clienteavaliacao\ClienteAvaliacaoGUI.class
+br\com\meuapp\clienteavaliacao\StarRater$StarListener.class
+br\com\meuapp\clienteavaliacao\ClienteAvaliacaoGUI$2.class
+br\com\meuapp\clienteavaliacao\StarRater.class
+br\com\meuapp\clienteavaliacao\ClienteAvaliacaoGUI$3.class
